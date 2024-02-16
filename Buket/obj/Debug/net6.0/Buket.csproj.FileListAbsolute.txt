@@ -1,0 +1,15 @@
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Buket\bin\Debug\net6.0\Buket.exe
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Buket\bin\Debug\net6.0\Buket.deps.json
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Buket\bin\Debug\net6.0\Buket.runtimeconfig.json
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Buket\bin\Debug\net6.0\Buket.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Buket\bin\Debug\net6.0\Buket.pdb
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Buket\obj\Debug\net6.0\Buket.csproj.AssemblyReference.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Buket\obj\Debug\net6.0\Buket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Buket\obj\Debug\net6.0\Buket.AssemblyInfoInputs.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Buket\obj\Debug\net6.0\Buket.AssemblyInfo.cs
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Buket\obj\Debug\net6.0\Buket.csproj.CoreCompileInputs.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Buket\obj\Debug\net6.0\Buket.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Buket\obj\Debug\net6.0\refint\Buket.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Buket\obj\Debug\net6.0\Buket.pdb
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Buket\obj\Debug\net6.0\Buket.genruntimeconfig.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Buket\obj\Debug\net6.0\ref\Buket.dll

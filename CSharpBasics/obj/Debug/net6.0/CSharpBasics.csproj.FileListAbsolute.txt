@@ -1,0 +1,15 @@
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\CSharpBasics\bin\Debug\net6.0\CSharpBasics.exe
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\CSharpBasics\bin\Debug\net6.0\CSharpBasics.deps.json
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\CSharpBasics\bin\Debug\net6.0\CSharpBasics.runtimeconfig.json
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\CSharpBasics\bin\Debug\net6.0\CSharpBasics.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\CSharpBasics\bin\Debug\net6.0\CSharpBasics.pdb
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\CSharpBasics\obj\Debug\net6.0\CSharpBasics.csproj.AssemblyReference.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\CSharpBasics\obj\Debug\net6.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\CSharpBasics\obj\Debug\net6.0\CSharpBasics.AssemblyInfoInputs.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\CSharpBasics\obj\Debug\net6.0\CSharpBasics.AssemblyInfo.cs
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\CSharpBasics\obj\Debug\net6.0\CSharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\CSharpBasics\obj\Debug\net6.0\CSharpBasics.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\CSharpBasics\obj\Debug\net6.0\refint\CSharpBasics.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\CSharpBasics\obj\Debug\net6.0\CSharpBasics.pdb
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\CSharpBasics\obj\Debug\net6.0\CSharpBasics.genruntimeconfig.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\CSharpBasics\obj\Debug\net6.0\ref\CSharpBasics.dll

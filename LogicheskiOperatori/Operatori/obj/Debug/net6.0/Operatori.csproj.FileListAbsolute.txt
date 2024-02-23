@@ -1,0 +1,15 @@
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\Operatori\bin\Debug\net6.0\Operatori.exe
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\Operatori\bin\Debug\net6.0\Operatori.deps.json
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\Operatori\bin\Debug\net6.0\Operatori.runtimeconfig.json
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\Operatori\bin\Debug\net6.0\Operatori.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\Operatori\bin\Debug\net6.0\Operatori.pdb
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\Operatori\obj\Debug\net6.0\Operatori.csproj.AssemblyReference.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\Operatori\obj\Debug\net6.0\Operatori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\Operatori\obj\Debug\net6.0\Operatori.AssemblyInfoInputs.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\Operatori\obj\Debug\net6.0\Operatori.AssemblyInfo.cs
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\Operatori\obj\Debug\net6.0\Operatori.csproj.CoreCompileInputs.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\Operatori\obj\Debug\net6.0\Operatori.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\Operatori\obj\Debug\net6.0\refint\Operatori.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\Operatori\obj\Debug\net6.0\Operatori.pdb
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\Operatori\obj\Debug\net6.0\Operatori.genruntimeconfig.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\Operatori\obj\Debug\net6.0\ref\Operatori.dll

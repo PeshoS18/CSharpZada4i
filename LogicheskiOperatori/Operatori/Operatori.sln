@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatori", "Operatori.csproj", "{87E5E33E-7E07-4A47-BDC2-E1798E34DBE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YgliNaTiagalnik", "..\YgliNaTiagalnik\YgliNaTiagalnik.csproj", "{1533F6D3-5EDB-4E13-A80C-F86F658B4A75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KvadratnoUravnenie", "..\KvadratnoUravnenie\KvadratnoUravnenie.csproj", "{51166C33-107C-4764-B548-1127BA5B4AA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CeliChislaVPravRed", "..\CeliChislaVPravRed\CeliChislaVPravRed.csproj", "{CC68370F-0830-47D9-A30E-EC92FE746B35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFactoriel", "..\NFactoriel\NFactoriel.csproj", "{B676E9FD-1B55-42D1-B759-320CE82ECF50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SabiraneNaPolozhitelniChisla", "..\SabiraneNaPolozhitelniChisla\SabiraneNaPolozhitelniChisla.csproj", "{3DA94051-7771-45DC-8151-4B10B26CFCCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87E5E33E-7E07-4A47-BDC2-E1798E34DBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E5E33E-7E07-4A47-BDC2-E1798E34DBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E5E33E-7E07-4A47-BDC2-E1798E34DBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E5E33E-7E07-4A47-BDC2-E1798E34DBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1533F6D3-5EDB-4E13-A80C-F86F658B4A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1533F6D3-5EDB-4E13-A80C-F86F658B4A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1533F6D3-5EDB-4E13-A80C-F86F658B4A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1533F6D3-5EDB-4E13-A80C-F86F658B4A75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51166C33-107C-4764-B548-1127BA5B4AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51166C33-107C-4764-B548-1127BA5B4AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51166C33-107C-4764-B548-1127BA5B4AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51166C33-107C-4764-B548-1127BA5B4AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC68370F-0830-47D9-A30E-EC92FE746B35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC68370F-0830-47D9-A30E-EC92FE746B35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC68370F-0830-47D9-A30E-EC92FE746B35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC68370F-0830-47D9-A30E-EC92FE746B35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B676E9FD-1B55-42D1-B759-320CE82ECF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B676E9FD-1B55-42D1-B759-320CE82ECF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B676E9FD-1B55-42D1-B759-320CE82ECF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B676E9FD-1B55-42D1-B759-320CE82ECF50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA94051-7771-45DC-8151-4B10B26CFCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA94051-7771-45DC-8151-4B10B26CFCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA94051-7771-45DC-8151-4B10B26CFCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA94051-7771-45DC-8151-4B10B26CFCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD03F87C-D3A9-4EDB-ADAB-6B70CFB2BFD2}
+	EndGlobalSection
+EndGlobal

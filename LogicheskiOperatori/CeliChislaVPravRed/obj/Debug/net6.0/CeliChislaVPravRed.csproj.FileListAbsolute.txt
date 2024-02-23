@@ -1,0 +1,15 @@
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\CeliChislaVPravRed\bin\Debug\net6.0\CeliChislaVPravRed.exe
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\CeliChislaVPravRed\bin\Debug\net6.0\CeliChislaVPravRed.deps.json
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\CeliChislaVPravRed\bin\Debug\net6.0\CeliChislaVPravRed.runtimeconfig.json
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\CeliChislaVPravRed\bin\Debug\net6.0\CeliChislaVPravRed.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\CeliChislaVPravRed\bin\Debug\net6.0\CeliChislaVPravRed.pdb
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\CeliChislaVPravRed\obj\Debug\net6.0\CeliChislaVPravRed.csproj.AssemblyReference.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\CeliChislaVPravRed\obj\Debug\net6.0\CeliChislaVPravRed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\CeliChislaVPravRed\obj\Debug\net6.0\CeliChislaVPravRed.AssemblyInfoInputs.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\CeliChislaVPravRed\obj\Debug\net6.0\CeliChislaVPravRed.AssemblyInfo.cs
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\CeliChislaVPravRed\obj\Debug\net6.0\CeliChislaVPravRed.csproj.CoreCompileInputs.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\CeliChislaVPravRed\obj\Debug\net6.0\CeliChislaVPravRed.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\CeliChislaVPravRed\obj\Debug\net6.0\refint\CeliChislaVPravRed.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\CeliChislaVPravRed\obj\Debug\net6.0\CeliChislaVPravRed.pdb
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\CeliChislaVPravRed\obj\Debug\net6.0\CeliChislaVPravRed.genruntimeconfig.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\CeliChislaVPravRed\obj\Debug\net6.0\ref\CeliChislaVPravRed.dll

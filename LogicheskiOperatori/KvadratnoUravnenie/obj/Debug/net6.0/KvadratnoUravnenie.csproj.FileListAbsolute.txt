@@ -1,0 +1,15 @@
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\KvadratnoUravnenie\bin\Debug\net6.0\KvadratnoUravnenie.exe
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\KvadratnoUravnenie\bin\Debug\net6.0\KvadratnoUravnenie.deps.json
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\KvadratnoUravnenie\bin\Debug\net6.0\KvadratnoUravnenie.runtimeconfig.json
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\KvadratnoUravnenie\bin\Debug\net6.0\KvadratnoUravnenie.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\KvadratnoUravnenie\bin\Debug\net6.0\KvadratnoUravnenie.pdb
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\KvadratnoUravnenie\obj\Debug\net6.0\KvadratnoUravnenie.csproj.AssemblyReference.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\KvadratnoUravnenie\obj\Debug\net6.0\KvadratnoUravnenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\KvadratnoUravnenie\obj\Debug\net6.0\KvadratnoUravnenie.AssemblyInfoInputs.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\KvadratnoUravnenie\obj\Debug\net6.0\KvadratnoUravnenie.AssemblyInfo.cs
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\KvadratnoUravnenie\obj\Debug\net6.0\KvadratnoUravnenie.csproj.CoreCompileInputs.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\KvadratnoUravnenie\obj\Debug\net6.0\KvadratnoUravnenie.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\KvadratnoUravnenie\obj\Debug\net6.0\refint\KvadratnoUravnenie.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\KvadratnoUravnenie\obj\Debug\net6.0\KvadratnoUravnenie.pdb
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\KvadratnoUravnenie\obj\Debug\net6.0\KvadratnoUravnenie.genruntimeconfig.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\KvadratnoUravnenie\obj\Debug\net6.0\ref\KvadratnoUravnenie.dll

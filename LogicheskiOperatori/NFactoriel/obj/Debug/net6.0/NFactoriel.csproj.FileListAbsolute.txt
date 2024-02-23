@@ -1,0 +1,15 @@
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\NFactoriel\bin\Debug\net6.0\NFactoriel.exe
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\NFactoriel\bin\Debug\net6.0\NFactoriel.deps.json
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\NFactoriel\bin\Debug\net6.0\NFactoriel.runtimeconfig.json
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\NFactoriel\bin\Debug\net6.0\NFactoriel.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\NFactoriel\bin\Debug\net6.0\NFactoriel.pdb
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\NFactoriel\obj\Debug\net6.0\NFactoriel.csproj.AssemblyReference.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\NFactoriel\obj\Debug\net6.0\NFactoriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\NFactoriel\obj\Debug\net6.0\NFactoriel.AssemblyInfoInputs.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\NFactoriel\obj\Debug\net6.0\NFactoriel.AssemblyInfo.cs
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\NFactoriel\obj\Debug\net6.0\NFactoriel.csproj.CoreCompileInputs.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\NFactoriel\obj\Debug\net6.0\NFactoriel.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\NFactoriel\obj\Debug\net6.0\refint\NFactoriel.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\NFactoriel\obj\Debug\net6.0\NFactoriel.pdb
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\NFactoriel\obj\Debug\net6.0\NFactoriel.genruntimeconfig.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\LogicheskiOperatori\NFactoriel\obj\Debug\net6.0\ref\NFactoriel.dll

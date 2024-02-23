@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SabiraneNaPolozhitelniChisla/1.0.0": {
+        "runtime": {
+          "SabiraneNaPolozhitelniChisla.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SabiraneNaPolozhitelniChisla/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

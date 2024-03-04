@@ -1,0 +1,15 @@
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\PolozhitelenMasiv\bin\Debug\net6.0\PolozhitelenMasiv.exe
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\PolozhitelenMasiv\bin\Debug\net6.0\PolozhitelenMasiv.deps.json
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\PolozhitelenMasiv\bin\Debug\net6.0\PolozhitelenMasiv.runtimeconfig.json
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\PolozhitelenMasiv\bin\Debug\net6.0\PolozhitelenMasiv.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\PolozhitelenMasiv\bin\Debug\net6.0\PolozhitelenMasiv.pdb
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\PolozhitelenMasiv\obj\Debug\net6.0\PolozhitelenMasiv.csproj.AssemblyReference.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\PolozhitelenMasiv\obj\Debug\net6.0\PolozhitelenMasiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\PolozhitelenMasiv\obj\Debug\net6.0\PolozhitelenMasiv.AssemblyInfoInputs.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\PolozhitelenMasiv\obj\Debug\net6.0\PolozhitelenMasiv.AssemblyInfo.cs
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\PolozhitelenMasiv\obj\Debug\net6.0\PolozhitelenMasiv.csproj.CoreCompileInputs.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\PolozhitelenMasiv\obj\Debug\net6.0\PolozhitelenMasiv.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\PolozhitelenMasiv\obj\Debug\net6.0\refint\PolozhitelenMasiv.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\PolozhitelenMasiv\obj\Debug\net6.0\PolozhitelenMasiv.pdb
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\PolozhitelenMasiv\obj\Debug\net6.0\PolozhitelenMasiv.genruntimeconfig.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\PolozhitelenMasiv\obj\Debug\net6.0\ref\PolozhitelenMasiv.dll

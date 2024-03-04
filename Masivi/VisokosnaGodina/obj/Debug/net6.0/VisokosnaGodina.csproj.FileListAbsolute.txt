@@ -1,0 +1,15 @@
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\VisokosnaGodina\bin\Debug\net6.0\VisokosnaGodina.exe
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\VisokosnaGodina\bin\Debug\net6.0\VisokosnaGodina.deps.json
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\VisokosnaGodina\bin\Debug\net6.0\VisokosnaGodina.runtimeconfig.json
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\VisokosnaGodina\bin\Debug\net6.0\VisokosnaGodina.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\VisokosnaGodina\bin\Debug\net6.0\VisokosnaGodina.pdb
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\VisokosnaGodina\obj\Debug\net6.0\VisokosnaGodina.csproj.AssemblyReference.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\VisokosnaGodina\obj\Debug\net6.0\VisokosnaGodina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\VisokosnaGodina\obj\Debug\net6.0\VisokosnaGodina.AssemblyInfoInputs.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\VisokosnaGodina\obj\Debug\net6.0\VisokosnaGodina.AssemblyInfo.cs
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\VisokosnaGodina\obj\Debug\net6.0\VisokosnaGodina.csproj.CoreCompileInputs.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\VisokosnaGodina\obj\Debug\net6.0\VisokosnaGodina.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\VisokosnaGodina\obj\Debug\net6.0\refint\VisokosnaGodina.dll
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\VisokosnaGodina\obj\Debug\net6.0\VisokosnaGodina.pdb
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\VisokosnaGodina\obj\Debug\net6.0\VisokosnaGodina.genruntimeconfig.cache
+C:\Users\GOLF\Desktop\C#\CSharpZada4i\Masivi\VisokosnaGodina\obj\Debug\net6.0\ref\VisokosnaGodina.dll

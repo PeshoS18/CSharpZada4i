@@ -1,0 +1,15 @@
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Obekti_Metod\obj\Debug\net6.0\Obekti_Metod.csproj.AssemblyReference.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Obekti_Metod\obj\Debug\net6.0\Obekti_Metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Obekti_Metod\obj\Debug\net6.0\Obekti_Metod.AssemblyInfoInputs.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Obekti_Metod\obj\Debug\net6.0\Obekti_Metod.AssemblyInfo.cs
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Obekti_Metod\obj\Debug\net6.0\Obekti_Metod.csproj.CoreCompileInputs.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Obekti_Metod\bin\Debug\net6.0\Obekti_Metod.exe
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Obekti_Metod\bin\Debug\net6.0\Obekti_Metod.deps.json
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Obekti_Metod\bin\Debug\net6.0\Obekti_Metod.runtimeconfig.json
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Obekti_Metod\bin\Debug\net6.0\Obekti_Metod.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Obekti_Metod\bin\Debug\net6.0\Obekti_Metod.pdb
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Obekti_Metod\obj\Debug\net6.0\Obekti_Metod.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Obekti_Metod\obj\Debug\net6.0\refint\Obekti_Metod.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Obekti_Metod\obj\Debug\net6.0\Obekti_Metod.pdb
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Obekti_Metod\obj\Debug\net6.0\Obekti_Metod.genruntimeconfig.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Obekti_Metod\obj\Debug\net6.0\ref\Obekti_Metod.dll

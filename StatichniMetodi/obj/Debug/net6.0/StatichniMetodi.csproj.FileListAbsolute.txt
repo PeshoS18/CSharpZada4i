@@ -1,0 +1,15 @@
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\StatichniMetodi\bin\Debug\net6.0\StatichniMetodi.exe
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\StatichniMetodi\bin\Debug\net6.0\StatichniMetodi.deps.json
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\StatichniMetodi\bin\Debug\net6.0\StatichniMetodi.runtimeconfig.json
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\StatichniMetodi\bin\Debug\net6.0\StatichniMetodi.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\StatichniMetodi\bin\Debug\net6.0\StatichniMetodi.pdb
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\StatichniMetodi\obj\Debug\net6.0\StatichniMetodi.csproj.AssemblyReference.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\StatichniMetodi\obj\Debug\net6.0\StatichniMetodi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\StatichniMetodi\obj\Debug\net6.0\StatichniMetodi.AssemblyInfoInputs.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\StatichniMetodi\obj\Debug\net6.0\StatichniMetodi.AssemblyInfo.cs
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\StatichniMetodi\obj\Debug\net6.0\StatichniMetodi.csproj.CoreCompileInputs.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\StatichniMetodi\obj\Debug\net6.0\StatichniMetodi.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\StatichniMetodi\obj\Debug\net6.0\refint\StatichniMetodi.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\StatichniMetodi\obj\Debug\net6.0\StatichniMetodi.pdb
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\StatichniMetodi\obj\Debug\net6.0\StatichniMetodi.genruntimeconfig.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\StatichniMetodi\obj\Debug\net6.0\ref\StatichniMetodi.dll

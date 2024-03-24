@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatichniMetodi", "StatichniMetodi.csproj", "{B228FF81-DC16-42F1-A8E4-6A32E87167C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetriVKilometri", "..\MetriVKilometri\MetriVKilometri.csproj", "{7A367D7F-CDB7-46DB-B0D0-EB8E5BA040EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B228FF81-DC16-42F1-A8E4-6A32E87167C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B228FF81-DC16-42F1-A8E4-6A32E87167C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B228FF81-DC16-42F1-A8E4-6A32E87167C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B228FF81-DC16-42F1-A8E4-6A32E87167C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A367D7F-CDB7-46DB-B0D0-EB8E5BA040EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A367D7F-CDB7-46DB-B0D0-EB8E5BA040EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A367D7F-CDB7-46DB-B0D0-EB8E5BA040EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A367D7F-CDB7-46DB-B0D0-EB8E5BA040EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B3EE0AF-2BEE-4CCE-B1CA-1E7B74B95B13}
+	EndGlobalSection
+EndGlobal

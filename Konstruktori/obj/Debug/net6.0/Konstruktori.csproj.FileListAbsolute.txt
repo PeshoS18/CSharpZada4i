@@ -1,0 +1,15 @@
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Konstruktori\bin\Debug\net6.0\Konstruktori.exe
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Konstruktori\bin\Debug\net6.0\Konstruktori.deps.json
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Konstruktori\bin\Debug\net6.0\Konstruktori.runtimeconfig.json
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Konstruktori\bin\Debug\net6.0\Konstruktori.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Konstruktori\bin\Debug\net6.0\Konstruktori.pdb
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Konstruktori\obj\Debug\net6.0\Konstruktori.csproj.AssemblyReference.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Konstruktori\obj\Debug\net6.0\Konstruktori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Konstruktori\obj\Debug\net6.0\Konstruktori.AssemblyInfoInputs.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Konstruktori\obj\Debug\net6.0\Konstruktori.AssemblyInfo.cs
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Konstruktori\obj\Debug\net6.0\Konstruktori.csproj.CoreCompileInputs.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Konstruktori\obj\Debug\net6.0\Konstruktori.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Konstruktori\obj\Debug\net6.0\refint\Konstruktori.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Konstruktori\obj\Debug\net6.0\Konstruktori.pdb
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Konstruktori\obj\Debug\net6.0\Konstruktori.genruntimeconfig.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Konstruktori\obj\Debug\net6.0\ref\Konstruktori.dll

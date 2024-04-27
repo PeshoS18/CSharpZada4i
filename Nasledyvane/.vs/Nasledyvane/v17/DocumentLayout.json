@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\Nasledyvane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8CDB26-5DD4-44A4-B99D-6AC547C055EF}|Nasledyavane.csproj|c:\\users\\golf\\desktop\\c#\\c#zada4ivchas\\nasledyvane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8CDB26-5DD4-44A4-B99D-6AC547C055EF}|Nasledyavane.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8CDB26-5DD4-44A4-B99D-6AC547C055EF}|Nasledyavane.csproj|c:\\users\\golf\\desktop\\c#\\c#zada4ivchas\\nasledyvane\\bulilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8CDB26-5DD4-44A4-B99D-6AC547C055EF}|Nasledyavane.csproj|solutionrelative:bulilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bulilding.cs",
+              "DocumentMoniker": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\Nasledyvane\\Bulilding.cs",
+              "RelativeDocumentMoniker": "Bulilding.cs",
+              "ToolTip": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\Nasledyvane\\Bulilding.cs",
+              "RelativeToolTip": "Bulilding.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAowD8AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:01:56.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\Nasledyvane\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\Nasledyvane\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:39:00.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

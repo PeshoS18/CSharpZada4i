@@ -1,0 +1,14 @@
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Nasledyvane\bin\Debug\net6.0\Nasledyavane.exe
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Nasledyvane\bin\Debug\net6.0\Nasledyavane.deps.json
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Nasledyvane\bin\Debug\net6.0\Nasledyavane.runtimeconfig.json
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Nasledyvane\bin\Debug\net6.0\Nasledyavane.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Nasledyvane\bin\Debug\net6.0\Nasledyavane.pdb
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Nasledyvane\obj\Debug\net6.0\Nasledyavane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Nasledyvane\obj\Debug\net6.0\Nasledyavane.AssemblyInfoInputs.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Nasledyvane\obj\Debug\net6.0\Nasledyavane.AssemblyInfo.cs
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Nasledyvane\obj\Debug\net6.0\Nasledyavane.csproj.CoreCompileInputs.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Nasledyvane\obj\Debug\net6.0\Nasledyavane.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Nasledyvane\obj\Debug\net6.0\refint\Nasledyavane.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Nasledyvane\obj\Debug\net6.0\Nasledyavane.pdb
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Nasledyvane\obj\Debug\net6.0\Nasledyavane.genruntimeconfig.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Nasledyvane\obj\Debug\net6.0\ref\Nasledyavane.dll

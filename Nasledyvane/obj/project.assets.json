@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\Nasledyvane\\Nasledyavane.csproj",
+      "projectUniqueName": "C:\\Users\\GOLF\\Desktop\\C#\\CSharpZada4i\\Nasledyvane\\Nasledyavane.csproj",
       "projectName": "Nasledyavane",
-      "projectPath": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\Nasledyvane\\Nasledyavane.csproj",
+      "projectPath": "C:\\Users\\GOLF\\Desktop\\C#\\CSharpZada4i\\Nasledyvane\\Nasledyavane.csproj",
       "packagesPath": "C:\\Users\\GOLF\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\Nasledyvane\\obj\\",
+      "outputPath": "C:\\Users\\GOLF\\Desktop\\C#\\CSharpZada4i\\Nasledyvane\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

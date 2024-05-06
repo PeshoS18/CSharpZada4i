@@ -1,0 +1,14 @@
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\VirtualMethod\bin\Debug\net6.0\VirtualMethod.exe
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\VirtualMethod\bin\Debug\net6.0\VirtualMethod.deps.json
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\VirtualMethod\bin\Debug\net6.0\VirtualMethod.runtimeconfig.json
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\VirtualMethod\bin\Debug\net6.0\VirtualMethod.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\VirtualMethod\bin\Debug\net6.0\VirtualMethod.pdb
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\VirtualMethod\obj\Debug\net6.0\VirtualMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\VirtualMethod\obj\Debug\net6.0\VirtualMethod.AssemblyInfoInputs.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\VirtualMethod\obj\Debug\net6.0\VirtualMethod.AssemblyInfo.cs
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\VirtualMethod\obj\Debug\net6.0\VirtualMethod.csproj.CoreCompileInputs.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\VirtualMethod\obj\Debug\net6.0\VirtualMethod.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\VirtualMethod\obj\Debug\net6.0\refint\VirtualMethod.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\VirtualMethod\obj\Debug\net6.0\VirtualMethod.pdb
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\VirtualMethod\obj\Debug\net6.0\VirtualMethod.genruntimeconfig.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\VirtualMethod\obj\Debug\net6.0\ref\VirtualMethod.dll

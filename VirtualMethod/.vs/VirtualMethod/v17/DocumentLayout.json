@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\VirtualMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70B40019-D969-4A70-852C-18764AA17142}|..\\VirtualMethod2\\VirtualMethod2.csproj|c:\\users\\golf\\desktop\\c#\\c#zada4ivchas\\virtualmethod2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEDCD32-A4DB-48E3-A2CF-A35162CFCA21}|VirtualMethod.csproj|c:\\users\\golf\\desktop\\c#\\c#zada4ivchas\\virtualmethod\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEDCD32-A4DB-48E3-A2CF-A35162CFCA21}|VirtualMethod.csproj|solutionrelative:pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B40019-D969-4A70-852C-18764AA17142}|..\\VirtualMethod2\\VirtualMethod2.csproj|c:\\users\\golf\\desktop\\c#\\c#zada4ivchas\\virtualmethod2\\dot3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B40019-D969-4A70-852C-18764AA17142}|..\\VirtualMethod2\\VirtualMethod2.csproj|c:\\users\\golf\\desktop\\c#\\c#zada4ivchas\\virtualmethod2\\dot2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\VirtualMethod\\Pet.cs",
+              "RelativeDocumentMoniker": "Pet.cs",
+              "ToolTip": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\VirtualMethod\\Pet.cs",
+              "RelativeToolTip": "Pet.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:30:26.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dot3D.cs",
+              "DocumentMoniker": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\VirtualMethod2\\Dot3D.cs",
+              "RelativeDocumentMoniker": "..\\VirtualMethod2\\Dot3D.cs",
+              "ToolTip": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\VirtualMethod2\\Dot3D.cs",
+              "RelativeToolTip": "..\\VirtualMethod2\\Dot3D.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:28:14.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dot2D.cs",
+              "DocumentMoniker": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\VirtualMethod2\\Dot2D.cs",
+              "RelativeDocumentMoniker": "..\\VirtualMethod2\\Dot2D.cs",
+              "ToolTip": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\VirtualMethod2\\Dot2D.cs",
+              "RelativeToolTip": "..\\VirtualMethod2\\Dot2D.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:26:31.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\VirtualMethod2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\VirtualMethod2\\Program.cs",
+              "ToolTip": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\VirtualMethod2\\Program.cs",
+              "RelativeToolTip": "..\\VirtualMethod2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:26:10.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\VirtualMethod\\VirtualMethod.csproj",
+      "projectUniqueName": "C:\\Users\\GOLF\\Desktop\\C#\\CSharpZada4i\\VirtualMethod\\VirtualMethod.csproj",
       "projectName": "VirtualMethod",
-      "projectPath": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\VirtualMethod\\VirtualMethod.csproj",
+      "projectPath": "C:\\Users\\GOLF\\Desktop\\C#\\CSharpZada4i\\VirtualMethod\\VirtualMethod.csproj",
       "packagesPath": "C:\\Users\\GOLF\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GOLF\\Desktop\\C#\\C#Zada4iVChas\\VirtualMethod\\obj\\",
+      "outputPath": "C:\\Users\\GOLF\\Desktop\\C#\\CSharpZada4i\\VirtualMethod\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
